@@ -4,6 +4,8 @@ An interactive portfolio project built with the Olist Brazilian e-commerce datas
 
 > **Portfolio project:** the findings below describe the supplied Olist dataset. They are descriptive observations, not causal conclusions or forecasts.
 
+> **[Open the Live Dashboard](https://ecommerce-marketing-analytics.streamlit.app/)**
+
 ## Project Overview
 
 The dashboard is designed for business users who need to understand how sales are performing, which product categories contribute value, how customer groups differ, and where customer feedback may merit further investigation.
@@ -20,7 +22,7 @@ The project demonstrates an end-to-end analytics workflow: raw CSV data is trans
 
 ## Live Demo
 
-**Status:** Not published. A public demo URL will be added here after deployment; no live URL is currently available.
+**[Launch the E-commerce Customer & Marketing Analytics Dashboard](https://ecommerce-marketing-analytics.streamlit.app/)**
 
 ## Executive Summary: Findings
 
@@ -241,4 +243,4 @@ The command-line app expects the four processed CSVs under `data/processed/`. To
 
 ---
 
-Dashboard screenshots are included under `images/`. **Live demo:** pending deployment.
+Dashboard screenshots are included under `images/`.
